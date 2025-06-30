@@ -1,0 +1,51 @@
+{
+	"0": {
+		"left": [
+			"dashboard",
+			"workspaces",
+			"windowtitle"
+		],
+		"middle": [
+			"media"
+		],
+		"right": [
+			"volume",
+			"network",
+			"battery",
+			"systray",
+			"weather",
+			"clock",
+			"notifications"
+		]
+	},
+	"1": {
+		"left": [
+			"dashboard",
+			"workspaces",
+			"windowtitle"
+		],
+		"middle": [
+			"media"
+		],
+		"right": [
+			"volume",
+			"clock",
+			"notifications"
+		]
+	},
+	"2": {
+		"left": [
+			"dashboard",
+			"workspaces",
+			"windowtitle"
+		],
+		"middle": [
+			"media"
+		],
+		"right": [
+			"volume",
+			"clock",
+			"notifications"
+		]
+	}
+}
